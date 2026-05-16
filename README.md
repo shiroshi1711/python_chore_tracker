@@ -10,7 +10,3 @@ simple OOP CLI chore tracker Python, my first project
 6. save data to JSON/CSV
 
 #built with Python
-
-#how to run
-``bash
-python practice.py
